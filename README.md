@@ -17,6 +17,6 @@ Also I added smooth loading content on scroll
 
 ## Preview and Design layout
 
-[DEMO](https://vladskoromnyi.github.io/layout_creativeBakery/)
+[DEMO](https://vladskoromnyi.github.io/CreativeBakery-landing/)
 
 [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
